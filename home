@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Denzel Oduro</title>
+	<link rel="stylesheet" type="text/css" href="denzel_portfolio_style_sheet.css">
+	   <style>
+
+   </style>
+</head>
+<body style="background-color:#F5F5F5;
+			padding-top:80px;">	
+	<div class="body">
+		<div class="body-container">
+			<div class="h1">
+			<p> Denzel Oduro </p>
+			</div>
+			<div class="body-large"> Product designer currently at <a href="https://design.facebook.com/" target="_blank" rel="noopener noreferrer">Meta</a>, previously at <a href="https://studiorodrigo.com/" target="_blank" rel="noopener noreferrer">Studio Rodrigo</a>. Excited about all things design. Based in NYC. </div>
+			<div class="footer">
+			<p>Send me an <a href="mailto: denzeloduro1@gmail.com" target="_blank" rel="noopener noreferrer">email</a>, or find me on <a href="https://linkedin.com/in/denzeloduro/" target="_blank" rel="noopener noreferrer">Linkedin.</a></p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
